@@ -1,0 +1,27 @@
+{
+  "name": "node-relate-library",
+  "version": "1.0.0",
+  "description": "练习node的相关库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guanxiaodan/Node-Relate-Library.git"
+  },
+  "keywords": [
+    "node",
+    "third",
+    "library"
+  ],
+  "author": "关晓丹",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guanxiaodan/Node-Relate-Library/issues"
+  },
+  "homepage": "https://github.com/Guanxiaodan/Node-Relate-Library#readme",
+  "dependencies": {
+    "async": "^2.6.0"
+  }
+}
